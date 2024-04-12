@@ -1,4 +1,4 @@
-# Quantum Computing Simulation Project
+# Quantum Circuit Simulation Project
 
 This project simulates basic quantum computing operations using a C++ framework.
 It includes representations of quantum gates, quantum circuits, and matrices 
